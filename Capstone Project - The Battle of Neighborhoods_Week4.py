@@ -13,9 +13,11 @@
 # ### Data Section
 
 # New York City Neighborhood Names point file from https://geo.nyu.edu/catalog/nyu_2451_34572. It has a total of 5 boroughs and 306 neighborhoods. 
+# Neighborhood, broughts, latitude and longitude data can be extraced.
 # 
 # #### Foursquare API:
 # It has a database of more than 105 million places. This project would use Four-square API as its prime data gathering source.
+# This API provides the ability to perform location search, location sharing and details about a business. Foursquare users can also use photos, tips and reviews in many productive ways to add value to the results.
 
 # #### Python Library Files :
 #     • Pandas - Library for Data Analysis 
